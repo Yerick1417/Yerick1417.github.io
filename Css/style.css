@@ -286,7 +286,7 @@ canvas {
     font-size: x-large;
     transition-duration: 0.2s;
     position: fixed;
-    top: 430px;
+    top: 450px;
     left: -35px;
     padding: 10px;
     border-radius: 8px;
@@ -309,7 +309,7 @@ canvas {
     font-size: x-large;
     transition-duration: 0.2s;
     position: fixed;
-    top: 430px;
+    top: 450px;
     left: 130px;
     padding: 10px;
     border-radius: 8px;
