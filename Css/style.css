@@ -286,8 +286,8 @@ canvas {
     font-size: x-large;
     transition-duration: 0.2s;
     position: fixed;
-    top: 460px;
-    left: 20px;
+    top: 430px;
+    left: -35px;
     padding: 10px;
     border-radius: 8px;
     background-color: greenyellow; 
@@ -297,6 +297,29 @@ canvas {
 }
   
 .Button-11:hover{
+    transform: scale(1.1);
+    border-radius: 14px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: black;
+    background-color: white;
+}
+
+.Button-12{
+    font-family: monospace;
+    font-size: x-large;
+    transition-duration: 0.2s;
+    position: fixed;
+    top: 430px;
+    left: 130px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: greenyellow; 
+    color: black; 
+    border: 2px solid green;
+    cursor: pointer;
+}
+  
+.Button-12:hover{
     transform: scale(1.1);
     border-radius: 14px;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
